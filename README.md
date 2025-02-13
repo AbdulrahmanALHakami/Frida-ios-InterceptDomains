@@ -15,5 +15,4 @@ this command will hook the NSURLSesstion-CFNetwork methods that your app using i
 
 
 Abdulrahman Al-Hakami
-Twitter:@d7xsa
 
